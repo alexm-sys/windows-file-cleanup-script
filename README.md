@@ -1,9 +1,14 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/alexm-sys/windows-file-cleanup-script/main/banner.png" alt="Windows File Cleanup Script" style="max-width:100%;">
+</p>
+
 # 🧹 Limpieza automática de archivos en servidores Windows / Windows File Cleanup Script
 
 Este repositorio contiene una plantilla de script PowerShell para automatizar la eliminación de archivos antiguos en servidores Windows.  
 This repository contains a PowerShell script template to automate old file cleanup on Windows servers.
 
 ---
+
 
 ## 📋 Características / Features
 
