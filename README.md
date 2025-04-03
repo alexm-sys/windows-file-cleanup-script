@@ -1,10 +1,17 @@
+> 📘 **Este repositorio está disponible en español e inglés.**  
+> 📗 **This repository is available in Spanish and English.**  
+>  
+> 🧾 **Ver versión en español más abajo.**  
+> 🧾 **Scroll down for the English version.**
+
+
+
 # 🧹 Limpieza automática de archivos en servidores Windows / Windows File Cleanup Script
 
 Este repositorio contiene una plantilla de script PowerShell para automatizar la eliminación de archivos antiguos en servidores Windows.  
 This repository contains a PowerShell script template to automate old file cleanup on Windows servers.
 
 ---
-
 
 ## 📋 Características / Features
 
