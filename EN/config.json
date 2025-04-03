@@ -1,0 +1,21 @@
+{
+  "Jobs": [
+    {
+      "Path": "C:\\DATA\\Clients\\ExampleFolder",
+      "KeepDays": 30
+    },
+    {
+      "Path": "C:\\BACKUP\\DailyExports",
+      "KeepDays": 365,
+      "ExcludeFolders": [
+        "Logs",
+        "Uploads"
+      ]
+    }
+  ],
+  "Extensions": [
+    "*.*"
+  ],
+  "DryRun": true,
+  "LogDirectory": "C:\\CleanupLogs"
+}

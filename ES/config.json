@@ -1,0 +1,28 @@
+{
+  "Jobs": [
+    {
+      "Path": "C:\\Datos\\CLIENTES\\EtiqDestinatarios\\Copias",
+      "KeepDays": 30
+    },
+    {
+      "Path": "C:\\Datos\\CLIENTES\\ENTRADAS CONFIRMADAS",
+      "KeepDays": 365
+    },
+    {
+      "Path": "C:\\Datos\\CLIENTES\\Pedidos Confirmados",
+      "KeepDays": 365
+    },
+    {
+      "Path": "C:\\FTPVIVACE\\NEWFTPBACKUP",
+      "KeepDays": 365,
+      "ExcludeFolders": ["Log_Registro", "Subidos"]
+    },
+    {
+      "Path": "C:\\FTPVIVACE\\NEWFTPBACKUP\\Subidos",
+      "KeepDays": 365
+    }
+  ],
+  "Extensions": ["*.*"],
+  "DryRun": false,
+  "LogDirectory": "C:\\LogsLimpieza"
+}
