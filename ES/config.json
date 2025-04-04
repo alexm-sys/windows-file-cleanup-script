@@ -1,28 +1,21 @@
 {
   "Jobs": [
     {
-      "Path": "C:\\Datos\\CLIENTES\\EtiqDestinatarios\\Copias",
+      "Path": "C:\\RUTA\\A\\LIMPIAR",
       "KeepDays": 30
     },
     {
-      "Path": "C:\\Datos\\CLIENTES\\ENTRADAS CONFIRMADAS",
-      "KeepDays": 365
-    },
-    {
-      "Path": "C:\\Datos\\CLIENTES\\Pedidos Confirmados",
-      "KeepDays": 365
-    },
-    {
-      "Path": "C:\\FTPVIVACE\\NEWFTPBACKUP",
+      "Path": "C:\\OTRA\\RUTA\\DE\\EJEMPLO",
       "KeepDays": 365,
-      "ExcludeFolders": ["Log_Registro", "Subidos"]
-    },
-    {
-      "Path": "C:\\FTPVIVACE\\NEWFTPBACKUP\\Subidos",
-      "KeepDays": 365
+      "ExcludeFolders": [
+        "Carpeta1",
+        "Carpeta2"
+      ]
     }
   ],
-  "Extensions": ["*.*"],
-  "DryRun": false,
-  "LogDirectory": "C:\\LogsLimpieza"
+  "Extensions": [
+    "*.*"
+  ],
+  "DryRun": true,
+  "LogDirectory": "C:\\Ruta\\Para\\Logs"
 }
